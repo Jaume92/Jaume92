@@ -1,5 +1,4 @@
 ### Hi there 👋
-![Paisaje](https://unsplash.com/photos/a3YhOY3NoMw/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjM5NzU3MzY5&force=true&w=640)
 
 
 **About Me - A Little Bit of Information**
