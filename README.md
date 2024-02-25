@@ -1,8 +1,12 @@
-### Hello ! For me  👋
+### Hi there 👋
+
+**About Me - A Little Bit of Information**
 
 <!--
-**Jaume92/Jaume92** is a ✨ special ✨ 
+**Jaume92/Jaume92** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+-->
 
 - 🔭 I'm currently working on personal projects to enhance my data science skills and analyze large datasets.
 - 🌱 I'm currently learning advanced machine learning techniques and how to implement AI models in real-world applications.
@@ -11,3 +15,4 @@
 - 💬 Ask me about anything related to Python, data analysis, data visualization, and how to get started in the field of data science.
 - 📫 How to reach me: You can send me a direct message to my LinkedIn profile or to my personal email (jaumeni@gmail.com).
 - ⚡ Fun fact: I love solving complex puzzles and participating in Kaggle competitions during my free time.
+
